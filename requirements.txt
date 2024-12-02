@@ -12,11 +12,4 @@ seaborn
 requests
 django
 unicorn
-project
-app
-init__.py
-routes.py
-models.py
-run.py
-requirements.txt
-venv
+
